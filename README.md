@@ -1,3 +1,3 @@
 ﻿# CountdownStarted
 ## It is a Javascript Project
-## It a simple eye catchy, beautiful counter
+## It is a simple eye catchy, beautiful counter
